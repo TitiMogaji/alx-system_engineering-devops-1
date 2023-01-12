@@ -1,6 +1,4 @@
-``diff
+# 0x0C. web_server
 
-+ Updated and Done
-+ Author: Afolabi John Oluwaseun
-
-```
++ ## Done Successfully!
++ ```Author: Oluwaseun Aladejana```
