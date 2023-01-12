@@ -1,6 +1,4 @@
- ``diff
+# 0x0A-configuration_management
+## Success!
++ ```Author: Oluwaseun Aladejana```
 
-! Configuration done finally.
-+ By Authur: Afolabi John Oluwaseun
-
-`` 
