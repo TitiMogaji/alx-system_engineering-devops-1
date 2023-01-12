@@ -1,7 +1,3 @@
-```diff
-
-! SSH RSA Second Pair Part {0x0B}
-
-@ Author: Afolabi John Oluwaseun
-
-```
+# 0x0B-ssh
+## Success!
++ ```Author: Oluwaseun Aladejana```
