@@ -1,4 +1,4 @@
 # 0x10-https_ssl
 
-#Author
-Adam Umar Faruq<umarfaruqadam03@gmail.com>
+## Author
+Oluwaseun Aladejana <silva6media@gmail.com>
