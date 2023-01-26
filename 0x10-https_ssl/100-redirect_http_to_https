@@ -35,11 +35,11 @@ defaults
 
 frontend myfrontend
 	bind *:80
-	bind *:443 ssl crt /etc/haproxy/certs/www.uniqueel.tech.pem
-	http-request redirect scheme https code 301 if { hdr(Host) -i www.uniqueel.tech } !{ ssl_fc }
-	default_backend myservers
+	bind *:443 ssl crt /etc/haproxy/certs/www.da-silva.tech.pem
+	http-request redirect scheme https code 301 if { hdr(Host) -i www.da-silva.tech } !{ ssl_fc }
+	default_backend dasilva-backend
 
-backend myservers
+backend dasilva-backend
 	balance roundrobin
-	server web-01 54.86.220.207:80 check
-	server web-02 54.175.137.217:80 check	
+	server web-01 54.144.46.99:80 check
+	server web-02 54.209.42.65:80 check
